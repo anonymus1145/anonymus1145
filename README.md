@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there, I am Daniel! 😎
+ I am Daniel! 😎
 
 ## About me
 
