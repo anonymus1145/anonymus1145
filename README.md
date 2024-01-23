@@ -14,5 +14,5 @@ Let's connect and discuss how I can contribute to your projects and goals!
 
 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,babel,bash,bootstrap,bun,c,cs,cmake,dotnet,flask,git,github,go,graphql,ai,jest,linux,materialui,mongodb,mysql,nextjs,nodejs,postgres,py,react,sass,sqlite,tailwind,ts,vite,vitest,webpack,docker,firebase,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,babel,bash,bootstrap,bun,c,cs,cmake,dotnet,flask,git,github,go,graphql,ai,jest,linux,materialui,mongodb,mysql,nextjs,nodejs,postgres,py,react,sass,sqlite,tailwind,ts,vite,vitest,webpack,docker,firebase,kubernetes,express)](https://skillicons.dev)
 
